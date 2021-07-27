@@ -8,8 +8,7 @@ Build a basic image search app that allows the user to search and view images fr
 * Users are able to supply a search term to receive results related to that search term.
 * The app can asynchronously present the results as thumbnails on a grid.
 * The images are cached properly.
-* The user is able to tap on a thumbnail to view the image in its entirety, metadata displayed on-screen (e.g., image name, size, resolution, date,
-etc.).
+* The user is able to tap on a thumbnail to view the image in its entirety, metadata displayed on-screen (e.g., image name, owner, etc.).
 * There are few unit tests to cover the core functionality of the app.
 
 ## Future objective:
