@@ -18,4 +18,5 @@ etc.).
 * Add attractive icons and improve UI to enrich the look and feel of the app.
 * Use Navigation coordinator to manage routing between screens.
 * Implement UI Tests
+* Use latest third party library like Alamofire, SwiftLint, Lottie, etc using Coocapod
 
